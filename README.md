@@ -31,7 +31,7 @@ python3 main.py marked_child:painted.png paint_out.jpg
 ```
 ![Bozulmuş Görüntü](https://github.com/SenaAydin7/Fragile-Watermarking/blob/main/marked_child_painted.png)
 
-![Bozulma](out_lsb_paint_out)
+![Bozulma](https://github.com/SenaAydin7/Fragile-Watermarking/blob/main/out_lsb_paint_out.jpg)
 
 
 Görseller telif hakkı göz önünde bulundurularak [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) üzerinden alınmış gerçek insanlara ait olmayan görsellerdir.
