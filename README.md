@@ -23,7 +23,8 @@ python3 main.py picture\child.png picture\cengmark.jpg merked_child.png
 ```
 python3 main.py marked_child.png mark_out.jpg
 ```
-![Elde Edilen Damga](out_lsb_mark_out)
+![Elde Edilen Damga](https://github.com/SenaAydin7/Fragile-Watermarking/blob/main/out_lsb_mark_out.jpg)
+
 ### Görüntüdeki Bozulmayı Elde Etme
 ```
 python3 main.py marked_child:painted.png paint_out.jpg
