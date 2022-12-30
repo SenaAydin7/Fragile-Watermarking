@@ -10,10 +10,10 @@ Kırılgan damgalama ile orijinal görüntüye damga yerleştirip, damglanmış 
 - PIL (pillow) for Image
 - time
 
-## Kullanılan Görseller
-![Orijinal Görüntü] (https://github.com/SenaAydin7/Fragile-Watermarking/blob/main/picture/cengmark.jpg)
+## Kullanılan Görsel ve Damga
+![Orijinal Görüntü](https://github.com/SenaAydin7/Fragile-Watermarking/blob/main/picture/child.png) 
 
-![Damga] ()
+![Damga](https://github.com/SenaAydin7/Fragile-Watermarking/blob/main/picture/cengmark.jpg)
 
 ## Nasıl Çalışır
 ### Damgalama
