@@ -11,8 +11,9 @@ Kırılgan damgalama ile orijinal görüntüye damga yerleştirip, damglanmış 
 - time
 
 ## Kullanılan Görseller
-- ![Orijinal Görüntü] ()
-- ![Damga] ()
+![Orijinal Görüntü] (https://github.com/SenaAydin7/Fragile-Watermarking/blob/main/picture/cengmark.jpg)
+
+![Damga] ()
 
 ## Nasıl Çalışır
 ### Damgalama
